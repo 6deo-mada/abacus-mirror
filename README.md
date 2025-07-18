@@ -75,4 +75,6 @@ Always prioritize security when navigating the darknet. Utilize validated **Abac
 <a href="http://pzdv7uupqjj73qiq4ah6ivaczhb2wgj5mqtntetupzzvolvvuaecspyd.onion"><img src="/packages/far.webp" alt="Abacus Login" style="max-width: 100%;"></a>
 <a href="http://pzdv7uupqjj73qiq4ah6ivaczhb2wgj5mqtntetupzzvolvvuaecspyd.onion"><img src="/packages/perspective.webp" alt="Abacus Register" style="max-width: 100%;"></a>
 
-Update: link is accessible again
+
+
+Update:  07/18/2025
