@@ -77,4 +77,6 @@ Always prioritize security when navigating the darknet. Utilize validated **Abac
 
 
 
-Update:  07/18/2025
+
+
+Update: url is now accessible and functioning
