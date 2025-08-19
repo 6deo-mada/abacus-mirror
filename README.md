@@ -85,4 +85,6 @@ Always prioritize security when navigating the darknet. Utilize validated **Abac
 
 
 
-Update:  Wednesday 13 August 2025 Fixed broken url, now accessible
+
+
+Update:  08/19/2025
