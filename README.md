@@ -89,4 +89,6 @@ Always prioritize security when navigating the darknet. Utilize validated **Abac
 
 
 
-Update:  23 August link is up and running
+
+
+Update:  12 September 404 fixes
