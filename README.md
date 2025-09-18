@@ -91,4 +91,6 @@ Always prioritize security when navigating the darknet. Utilize validated **Abac
 
 
 
-Update:  12 September 404 fixes
+
+
+Update:  18 September 2025 url is now functioning and live
