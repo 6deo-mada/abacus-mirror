@@ -93,4 +93,6 @@ Always prioritize security when navigating the darknet. Utilize validated **Abac
 
 
 
-Update:  18 September 2025 url is now functioning and live
+
+
+Update:  10/01/2025 url is now responsive and functioning
